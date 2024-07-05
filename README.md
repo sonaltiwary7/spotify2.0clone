@@ -1,4 +1,4 @@
-# WEB-DEVELOPER
+# Beat-Wave
 
 ![Brandcore](/front.png)
 
